@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Barter-Tender",
+    "slug": "barter-tender",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF8F0"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

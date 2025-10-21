@@ -43,3 +43,36 @@ npm install
 
 # 3. Start Expo
 npm start
+```
+
+Scan the QR code with Expo Go to run on your device, or press:
+- `i` → iOS simulator (macOS only)  
+- `a` → Android emulator  
+
+---
+
+## Project Structure
+
+```
+BarterTender/
+│
+├── App.js
+├── package.json
+├── app.json
+├── babel.config.js
+├── assets/
+├── src/
+│   ├── components/
+│   ├── screens/
+│   ├── navigation/
+│   ├── context/
+│   ├── data/
+│   ├── styles/
+│   └── utils/
+└── README.md
+```
+
+---
+
+## License
+This project is MIT Licensed.
