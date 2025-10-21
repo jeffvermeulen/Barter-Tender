@@ -1,0 +1,16 @@
+BarterTender/
+│
+├── App.js
+├── package.json
+├── app.json
+├── babel.config.js
+├── assets/
+├── src/
+│   ├── components/
+│   ├── screens/
+│   ├── navigation/
+│   ├── context/
+│   ├── data/
+│   ├── styles/
+│   └── utils/
+└── README.md
