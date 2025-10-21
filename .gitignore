@@ -1,0 +1,21 @@
+# Node modules
+/node_modules/
+# Expo files
+.expo/
+.expo-shared/
+# Mac OS
+.DS_Store
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# IDEs
+.vscode/
+.idea/
+*.swp
+# Build outputs
+web-build/
+android/
+ios/
+# Local env variables
+.env
